@@ -1,1 +1,1 @@
-# Chatbot
+This repository is for a chatbot project. The chatbot will be programmed in Python and will be able to answer basic questions. The repository will contain the source code for the chatbot, as well as any other necessary files for the project. It will also include documentation about the project. 
